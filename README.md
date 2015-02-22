@@ -1,5 +1,4 @@
 # BitCoin-Generator-SCALA
-Generated BItCoins in SCALA!
 
 There are two files: 'Server' and 'Client'
 Here 'Server' acts as your master and 'Client', your Worker
